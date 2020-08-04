@@ -26,7 +26,7 @@ A simple real time web chat application (HTML/CSS, Material Design, JavaScript, 
 
 ### Screenshot
 
-![Screen Shot 2020-08-04 at 9.52.28 AM](/Users/petulapascall/Desktop/Screen Shot 2020-08-04 at 9.52.28 AM.png)
+<img src="https://github.com/SeePetulaCode/A-firebase-web-chat/blob/master/public/images/Screen%20Shot%202020-08-04%20at%203.12.33%20PM.png?raw=true">
 
 
 
